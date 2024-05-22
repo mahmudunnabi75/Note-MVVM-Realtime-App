@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844184619817",
+    "project_id": "notemvvmrealtime-708e0",
+    "storage_bucket": "notemvvmrealtime-708e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844184619817:android:73f2d26b956f6671694538",
+        "android_client_info": {
+          "package_name": "com.example.notemvvmrealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACO3fWmQHvGzs-q8T_Xc7fULScwSRq5io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
